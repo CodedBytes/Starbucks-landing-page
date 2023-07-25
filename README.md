@@ -15,7 +15,7 @@ As linguagens usadas foram : <br>
 
   ##
 
-Demonstração do site :
+Demonstração do site :<br>
 <img src="/demo.png" width="500px">
 
   ##
